@@ -1,0 +1,21 @@
+{
+  "name": "SimpleHashTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "DEBUG=server.js node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "debug": "^4.1.1",
+    "express": "^4.16.4",
+    "helmet": "^3.15.1",
+    "request": "^2.88.0",
+    "simplehashencryption": "^1.0.3"
+  }
+}

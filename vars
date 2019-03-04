@@ -1,0 +1,2 @@
+export privateEncryptionKey="KEYSTRING HERE"
+export encryptMultiplier=3
